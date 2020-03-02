@@ -8,7 +8,7 @@ public class Consola {
 
 	
 	public static byte leeByte() {
-		
+		//modificacion1		
 		BufferedReader in=new BufferedReader(new InputStreamReader(System.in));
 		byte x = 0;
 		try {
